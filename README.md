@@ -21,9 +21,9 @@ This repository includes practice code, experiments, and notes in areas such as:
   - Notes and small demos
 
 - **RAG & LLM Experiments**
-  - Retrieval-Augmented Generation (RAG) examples
+  - Retrieval-Augmented Generation examples
   - LangChain-related experiments
-  - Robotics / vision-related scripts (e.g. eye-in-hand calibration)
+  - Robotics / eye-in-hand calibration
 
 - **Databases & SQL**
   - SQL practice files
@@ -40,15 +40,15 @@ This repository includes practice code, experiments, and notes in areas such as:
 
 ## About Me
 
-- 🎓 **University**: Monash University - Master of Artificial Intelligence
+-  **University**: Monash University - Master of Artificial Intelligence
 - Interests:
   - Machine Learning & Deep Learning
   - Robotics & Computer Vision
-  - Large Language Models (LLMs)
+  - Large Language Models
   - Quantitative Analysis
 ---
 
-## 🛠 Environment
+##  Environment
 
 Most code in this repository is written in:
 
