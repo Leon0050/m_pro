@@ -10,3 +10,21 @@ ENV/
 .mypy_cache/
 .pytest_cache/
 *.pyc
+# macOS
+.DS_Store
+
+# IDE (PyCharm/IntelliJ)
+.idea/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / large files (avoid huge repo)
+PyTorch/data/MNIST/
+*.parquet
+*.pdf
+*.docx
+*.gz
+*-ubyte
+
